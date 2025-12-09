@@ -1,0 +1,28 @@
+body {
+    background-color: #1896f0;
+    font-family: Arial;
+    text-align: center;
+}
+
+#Titulo {
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+.cuadro {
+    background-color: rgb(194, 130, 13);
+    padding: 30px;
+    width: 500px;
+    margin: 0 auto;
+    border: 8px solid black;
+    border-radius: 25px;
+}
+
+#Texto {
+    font-size: 22px;
+    line-height: 1.4;
+}
+#Texto{
+    color:aqua
+}
+
